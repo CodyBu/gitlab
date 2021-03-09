@@ -5,5 +5,6 @@ public class Hello{
 			name = argv[0];
 		}
 		System.out.println("Hello, " + argv[0] + "!");
+		System.out.println("Welcome to Github");
 	}
 }
